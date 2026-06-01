@@ -37,7 +37,7 @@ API REST do sistema de monitoramento das 12 praias de Praia Grande SP. Fornece d
 ## Configuração e execução
 
 ```bash
-# 1. Entrar na pasta do backend
+# 1. Entrar na pasta backend
 cd backend-praio
 
 # 2. Copiar o arquivo de variáveis de ambiente
